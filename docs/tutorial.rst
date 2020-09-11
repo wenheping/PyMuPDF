@@ -16,8 +16,8 @@ The Python bindings to MuPDF are made available by this import statement. We als
 
     >>> import fitz
     >>> print(fitz.__doc__)
-    PyMuPDF 1.16.0: Python bindings for the MuPDF 1.16.0 library.
-    Version date: 2019-07-28 07:30:14.
+    PyMuPDF 1.17.6: Python bindings for the MuPDF 1.17.0 library.
+    Version date: 2020-08-26 14:54:32.
     Built for Python 3.7 on win32 (64-bit).
 
 
